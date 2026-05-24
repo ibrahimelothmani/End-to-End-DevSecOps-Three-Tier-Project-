@@ -1,0 +1,17 @@
+Jenkins-Server-TF/.terraform.lock.hcl
+Jenkins-Server-TF/.terraform.tfstate
+Jenkins-Server-TF/.terraform.tfstate.backup
+Jenkins-Server-TF/terraform.tfvars
+Jenkins-Server-TF/terraform.tfstate.backup
+Jenkins-Server-TF/terraform.tfstate.backup.lock.info
+Jenkins-Server-TF/terraform.tfstate.backup.lock.lock
+Jenkins-Server-TF/terraform.tfstate.backup.lock.lock.info
+Jenkins-Server-TF/terraform.tfstate.backup.lock.lock.lock
+Jenkins-Server-TF/terraform.tfstate.backup.lock.lock.lock.info
+Jenkins-Server-TF/terraform.tfstate.backup.lock.lock.lock.lock
+Jenkins-Server-TF/terraform.tfstate.backup.lock.lock.lock.lock.info
+Jenkins-Server-TF/terraform.tfstate.backup.lock.lock.lock.lock.lock
+Jenkins-Server-TF/terraform.tfstate.backup.lock.lock.lock.lock.lock.info
+Jenkins-Server-TF/terraform.tfstate.backup.lock.lock.lock.lock.lock.lock
+Jenkins-Server-TF/terraform.tfstate
+Jenkins-Server-TF/.terraform
